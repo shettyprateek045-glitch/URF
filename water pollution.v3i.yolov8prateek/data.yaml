@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['-']
+
+roboflow:
+  workspace: apiruk-95dey
+  project: water-pollution-zldff
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/apiruk-95dey/water-pollution-zldff/dataset/3
