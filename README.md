@@ -1,6 +1,6 @@
 🌊 URF – AI-Based Water Pollution Monitoring System using NVIDIA Jetson Orin Nano
 
-📌 Project Overview
+Project Overview
 
 Water pollution is one of the major environmental challenges affecting human health, aquatic ecosystems, and biodiversity. Traditional water quality monitoring methods often require manual sample collection and laboratory testing, which can be time-consuming and may not provide continuous monitoring.
 
@@ -33,11 +33,11 @@ Power Supply| Powering the system
 
 - Python
 - NVIDIA JetPack SDK
-- OpenCV (if image processing is used)
+- OpenCV 
 - NumPy
 - Pandas
 - Matplotlib
-- Jupyter Notebook / VS Code
+-  VS Code
 
 ⚙️ Working Methodology
 
